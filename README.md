@@ -1,4 +1,4 @@
-# Classes-of-3-1
+# Classes of 3/1
 
 ## Design Pattern
 * **Class 1:** S.O.L.I.D
