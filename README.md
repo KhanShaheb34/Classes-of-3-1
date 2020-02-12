@@ -3,4 +3,7 @@
 ## Design Pattern
 * **Class 1:** S.O.L.I.D
 * **Class 2:** Code Smells and Refactoring
-* **Class 3:** Duplicate Code
+* **Class 3:**
+  * Duplicate Code
+  * Lazy Class
+
