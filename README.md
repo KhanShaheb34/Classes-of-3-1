@@ -7,3 +7,6 @@
   * Duplicate Code
   * Lazy Class
 
+
+## Computer Networking
+* **Class 1:** Introduction
