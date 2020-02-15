@@ -1,6 +1,7 @@
 # Classes of 3/1
 
 ## Design Pattern
+* **Class 0:** Introduction
 * **Class 1:** S.O.L.I.D
 * **Class 2:** Code Smells and Refactoring
 * **Class 3:**
@@ -9,7 +10,10 @@
 
 
 ## Computer Networking
-* **Class 1:** Introduction
+* **Class 0:** Introduction
+
+## MIS
+* **Class 0:** Introduction
 
 ## Database
 
