@@ -12,16 +12,16 @@
 ## Computer Networking
 * **Class 0:** Introduction
 * **Class 1:**
- * Data Communication
- * Data Flow Direction
- * Networks
- * Network Criteria
- * Resource Providing for Network
- * Topology
- * Network Types
- * Circuit Switching
- * Pacjet Switching
- * Internetworking
+  * Data Communication
+  * Data Flow Direction
+  * Networks
+  * Network Criteria
+  * Resource Providing for Network
+  * Topology
+  * Network Types
+  * Circuit Switching
+  * Pacjet Switching
+  * Internetworking
 
 ## MIS
 * **Class 0:** Introduction
