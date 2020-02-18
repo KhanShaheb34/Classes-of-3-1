@@ -12,7 +12,7 @@
 ## Computer Networking
 * **Class 0:** Introduction
 * **Class 1:**
-  * Data Communication
+  * Data Communication (Chapter 1)
   * Data Flow Direction
   * Networks
   * Network Criteria
@@ -22,6 +22,10 @@
   * Circuit Switching
   * Pacjet Switching
   * Internetworking
+  * Protocol Layering (Chapter 2)
+  * Layer Model
+  * Network Layers: TCP/IP Protocol Suite
+  * Application Layer
 
 ## MIS
 * **Class 0:** Introduction
