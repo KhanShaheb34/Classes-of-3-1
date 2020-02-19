@@ -26,6 +26,9 @@
   * Layer Model
   * Network Layers: TCP/IP Protocol Suite
   * Application Layer
+* **Class 2:**
+  * Transport Layer
+  * Network Layer
 
 ## MIS
 * **Class 0:** Introduction
