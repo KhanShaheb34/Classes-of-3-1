@@ -29,6 +29,9 @@
 * **Class 2:**
   * Transport Layer
   * Network Layer
+  * Data Link Layer
+  * Physical Layer
+  * Internet Model
 
 ## MIS
 * **Class 0:** Introduction
