@@ -32,6 +32,18 @@
   * Data Link Layer
   * Physical Layer
   * Internet Model
+* **Class 3:**
+  * Transport Layer
+  * Internet Model
+  * Protocol Suites
+  * Internet Protocol Suit
+  * Addresses in TCP/IP
+  * Logical and Physical Adresses
+  * Port Addreses
+  * OSI Model
+  * Session Layer
+  * Presentation Layer
+  
 
 ## MIS
 * **Class 0:** Introduction
