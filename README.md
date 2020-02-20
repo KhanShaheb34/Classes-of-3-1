@@ -43,7 +43,14 @@
   * OSI Model
   * Session Layer
   * Presentation Layer
-  
+  * Application Layer (Chapter 3)
+  * Application Architecture
+  * Client-server Architecture
+  * P2P Architecture
+  * Hybrid of Client-Server and P2P
+  * Process Communicating
+  * Sockets
+  * Addressing Processes
 
 ## MIS
 * **Class 0:** Introduction
