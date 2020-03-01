@@ -51,6 +51,14 @@
   * Process Communicating
   * Sockets
   * Addressing Processes
+* **Class 4:**
+  * Process Communicating
+  * Addressing Processes
+  * 
+  
+  #### CCNA Important Topics:
+   * 1.2.1.1 - 1.2.1.7
+   * 1.3.2.1 - 1.3.2.7
 
 ## MIS
 * **Class 0:** Introduction
