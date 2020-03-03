@@ -54,7 +54,9 @@
 * **Class 4:**
   * Process Communicating
   * Addressing Processes
-  * 
+  * ...Application Layer Chapter
+* **Class 5:**
+  * Transport Layer Chapter
   
   #### CCNA Important Topics:
    * 1.2.1.1 - 1.2.1.7
